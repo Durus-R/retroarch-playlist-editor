@@ -1,0 +1,21 @@
+{
+  "version": "1.0",
+  "items": [
+    {
+      "path": "./roms/2(ENG) Legend of Zelda - The Ocarina of Time (1.0).n64",
+      "label": "2(ENG) Legend of Zelda - The Ocarina of Time (1.0)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Playlist sample.lpl"
+    },
+    {
+      "path": "./roms/Kirby Super Star (USA).zip",
+      "label": "Kirby Super Star (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Playlist sample.lpl"
+    }
+  ]
+}

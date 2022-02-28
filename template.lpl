@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "items": [
+    {
+      "path": "%PATH%",
+      "label": "%LABEL%",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "%FILENAME%"
+    }
+  ]
+}
+
