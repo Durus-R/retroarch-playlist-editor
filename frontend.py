@@ -13,9 +13,6 @@ if sys.platform != "Windows":
 if not os.path.exists(retroarch_playlist_dir):
     retroarch_playlist_dir = os.environ["home"]
 
-
-
-
 class Item(QtWidgets.QListWidgetItem):
     def __init__(self, text, parent=None, type_: int = ..., path=None):
         super().__init__(text, parent)
