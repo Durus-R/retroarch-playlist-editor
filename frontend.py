@@ -85,7 +85,7 @@ class MainWindow(QtWidgets.QMainWindow):
                                                                "All Files (*)", options=options)
         if type(file_names == list):
             for i in file_names:
-                # self.data[backend.generate(i)] = i  
+                # self.data[backend.generate(i)] = i
                 self.list.addItem(Item(backend.generate(i), path=i))
         elif not file_names:
             return
